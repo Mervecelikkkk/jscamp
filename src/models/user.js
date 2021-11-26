@@ -5,5 +5,6 @@ export default class User{
        this.lastName=lastName
        this.city=city
        this.age=age
+       
     }
 }
